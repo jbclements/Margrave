@@ -1,1 +1,7 @@
-Margrave requires DrRacket version 5.01 or later.
+This repository contains Margrave, a policy analyzer.
+
+To install it, run
+
+raco pkg install margrave
+
+or use DrRacket's package manager.
