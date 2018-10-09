@@ -7,7 +7,7 @@ get a visualization that doesn't convey all the information.
 1. Create Margrave vocabulary and policy files which describe your policy.
 
 2. Describe your topology as a graph with nodes and edges according to the topology file format. This is a simple format, just look at
-topotest.rkt to get an idea of how this is done.
+topotest.rktd to get an idea of how this is done.
 
 3. Look at example.rkt to see how to set up your program. Basically:
  - Start Margrave

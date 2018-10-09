@@ -12,7 +12,7 @@
 (load-policy (build-path "tests" "inboundnat_fw2.p"))
 
 ; Load a netgraph from a file
-(define myng (load-topology "topotest.rkt"))
+(define myng (load-topology "topotest.rktd"))
 
 ; Define the keywords from the policy vocabulary.
 ; This way we know the variable names associated with the ip source and destination
